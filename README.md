@@ -1,1 +1,1 @@
-# Algorithmization-and-Programming-C-
+Algorithmization and Programming (C#) 
