@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\misha\\source\\repos\\2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D7A296A9-48AF-47EA-B889-C9652F399B0A}|2\\2.csproj|c:\\users\\misha\\source\\repos\\2\\2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7A296A9-48AF-47EA-B889-C9652F399B0A}|2\\2.csproj|solutionrelative:2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\misha\\source\\repos\\2\\2\\Program.cs",
+              "RelativeDocumentMoniker": "2\\Program.cs",
+              "ToolTip": "C:\\Users\\misha\\source\\repos\\2\\2\\Program.cs",
+              "RelativeToolTip": "2\\Program.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAQwMYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-08T20:09:02.491Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
